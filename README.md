@@ -12,6 +12,8 @@ Base management software: https://github.com/itzg/docker-minecraft-bedrock-serve
 - Edit server whitelist
 - Edit server blacklist
 - Backup server at specified intervals (either time-based, or player-enterance based)
+- retrieve the server worldsave to a given dir
+- set the server world save from a given dir
 
 
 ## Techstack
