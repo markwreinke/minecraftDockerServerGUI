@@ -12,6 +12,11 @@ Base management software: https://github.com/itzg/docker-minecraft-bedrock-serve
 - Edit server whitelist
 - Edit server blacklist
 - Backup server at specified intervals (either time-based, or player-enterance based)
+- Have microsoft sign-in?
+  + Access to account friends list
+  + use for necessary access controls
+  + easier account-based whitelisting/role assignment
+  + will likely have to use REST endpoints instead of API, as API is in C++?
 
 
 ## Techstack
