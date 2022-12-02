@@ -17,6 +17,8 @@ Base management software: https://github.com/itzg/docker-minecraft-bedrock-serve
   + use for necessary access controls
   + easier account-based whitelisting/role assignment
   + will likely have to use REST endpoints instead of API, as API is in C++?
+- retrieve the server worldsave to a given dir
+- set the server world save from a given dir
 
 
 ## Techstack
