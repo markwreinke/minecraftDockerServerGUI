@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T20:52:33.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YKrfUtVR6cu9gy9E25zm" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T20:53:02.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_Z43xIjLVr5lAA5z4pWk" version="20.5.3" type="github">
   <diagram id="2XXeRItCH8uOyoJOFIRZ" name="Page-1">
     <mxGraphModel dx="1730" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="UEncbRYaiT28Zr6wl8QN-13" value="v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="UEncbRYaiT28Zr6wl8QN-14" vertex="1">
           <mxGeometry x="400" y="5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2" value="Store account info in cloud/google drive?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QZ7w9EDcwbM6jEZ6R1zy-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1030" y="-40" width="550" height="510" as="geometry" />
