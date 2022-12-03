@@ -3,7 +3,7 @@ A GUI built to intuitively create and manage Bedrock Minecraft Servers
 
 Purpose: Create an easy to download and use GUI application that can create and manage bedrock [maybe add java later?] Minecraft servers. It should be operable by a non-technical user, with desired features and as much management cabailities as a person with command line access and knowledge would have.
 
-Repo trello Board: https://trello.com/b/UPQvh09S/todo
+Project trello Board: https://trello.com/b/UPQvh09S/todo
 
 Base management software: https://github.com/itzg/docker-minecraft-bedrock-server
 
