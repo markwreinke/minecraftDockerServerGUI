@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T22:11:42.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AChlaPKzNW4BQE0GQaRW" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-03T22:17:18.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eno9l2MZzJBrBQ7XyHa9" version="20.5.3" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="PageRelationships">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -21,6 +21,9 @@
         <mxCell id="sN6Aas26mCw6zReEKOQZ-7" value="Logs out" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.068;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.358;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sN6Aas26mCw6zReEKOQZ-1" target="sN6Aas26mCw6zReEKOQZ-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qUKlEliz1QWMUoyMAakW-1" value="Clicks &quot;Add New Server&quot; button" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sN6Aas26mCw6zReEKOQZ-1" target="qUKlEliz1QWMUoyMAakW-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Home Page" link="data:page/id,GJiVA77IO0m3UT4-KP1h" id="sN6Aas26mCw6zReEKOQZ-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="195" y="250" width="120" height="60" as="geometry" />
@@ -31,6 +34,9 @@
         </mxCell>
         <mxCell id="sN6Aas26mCw6zReEKOQZ-5" value="Server Management Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qUKlEliz1QWMUoyMAakW-0" value="Add New Server Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-20" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -113,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GJiVA77IO0m3UT4-KP1h" name="HomePage">
-    <mxGraphModel dx="2523" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,9 +144,11 @@
         <mxCell id="JcCNMPxnc8rThMAwooKm-7" value="v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-1" vertex="1">
           <mxGeometry x="560" y="7" width="84" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="JcCNMPxnc8rThMAwooKm-8" value="Create New Server" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeWidth=2;" parent="JcCNMPxnc8rThMAwooKm-1" vertex="1">
-          <mxGeometry x="406" y="378" width="504" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="Add New Server" link="data:page/id,-YvAB8qKiffz2KN_UGGw" id="JcCNMPxnc8rThMAwooKm-8">
+          <mxCell style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeWidth=2;" parent="JcCNMPxnc8rThMAwooKm-1" vertex="1">
+            <mxGeometry x="406" y="378" width="504" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JcCNMPxnc8rThMAwooKm-9" value="" style="group" parent="JcCNMPxnc8rThMAwooKm-1" vertex="1" connectable="0">
           <mxGeometry x="406" y="190" width="504" height="40" as="geometry" />
         </mxCell>
@@ -153,9 +161,11 @@
         <mxCell id="JcCNMPxnc8rThMAwooKm-12" value="Server2Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="JcCNMPxnc8rThMAwooKm-9" vertex="1">
           <mxGeometry x="75" y="5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JcCNMPxnc8rThMAwooKm-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;" parent="JcCNMPxnc8rThMAwooKm-9" vertex="1">
-          <mxGeometry x="430" y="10" width="19.1" height="19.1" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,VaYna1fQmEZK1ZIBOYVz" id="JcCNMPxnc8rThMAwooKm-13">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;" parent="JcCNMPxnc8rThMAwooKm-9" vertex="1">
+            <mxGeometry x="430" y="10" width="19.1" height="19.1" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JcCNMPxnc8rThMAwooKm-14" value="" style="group" parent="JcCNMPxnc8rThMAwooKm-9" vertex="1" connectable="0">
           <mxGeometry x="185" y="5" width="110" height="30" as="geometry" />
         </mxCell>
@@ -183,9 +193,11 @@
         <mxCell id="JcCNMPxnc8rThMAwooKm-22" value="Server1Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="JcCNMPxnc8rThMAwooKm-19" vertex="1">
           <mxGeometry x="75" y="5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JcCNMPxnc8rThMAwooKm-23" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;" parent="JcCNMPxnc8rThMAwooKm-19" vertex="1">
-          <mxGeometry x="430" y="10" width="19.1" height="19.1" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,VaYna1fQmEZK1ZIBOYVz" id="JcCNMPxnc8rThMAwooKm-23">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;" parent="JcCNMPxnc8rThMAwooKm-19" vertex="1">
+            <mxGeometry x="430" y="10" width="19.1" height="19.1" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JcCNMPxnc8rThMAwooKm-24" value="" style="group" parent="JcCNMPxnc8rThMAwooKm-19" vertex="1" connectable="0">
           <mxGeometry x="185" y="5" width="110" height="30" as="geometry" />
         </mxCell>
@@ -213,9 +225,11 @@
         <mxCell id="JcCNMPxnc8rThMAwooKm-32" value="Server3Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="JcCNMPxnc8rThMAwooKm-29" vertex="1">
           <mxGeometry x="75" y="5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JcCNMPxnc8rThMAwooKm-33" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;" parent="JcCNMPxnc8rThMAwooKm-29" vertex="1">
-          <mxGeometry x="430" y="10" width="19.1" height="19.1" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,VaYna1fQmEZK1ZIBOYVz" id="JcCNMPxnc8rThMAwooKm-33">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;" parent="JcCNMPxnc8rThMAwooKm-29" vertex="1">
+            <mxGeometry x="430" y="10" width="19.1" height="19.1" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JcCNMPxnc8rThMAwooKm-34" value="" style="group" parent="JcCNMPxnc8rThMAwooKm-29" vertex="1" connectable="0">
           <mxGeometry x="185" y="5" width="110" height="30" as="geometry" />
         </mxCell>
@@ -237,9 +251,11 @@
         <mxCell id="JcCNMPxnc8rThMAwooKm-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=default;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-39" vertex="1">
           <mxGeometry width="308" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="JcCNMPxnc8rThMAwooKm-41" value="GoToProfile" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-39" vertex="1">
-          <mxGeometry x="20.98599999999999" y="105" width="98.014" height="42" as="geometry" />
-        </mxCell>
+        <UserObject label="GoToProfile" link="data:page/id,BLttz0EZwvcSk9eA8QLv" id="JcCNMPxnc8rThMAwooKm-41">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-39" vertex="1">
+            <mxGeometry x="20.98599999999999" y="105" width="98.014" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JcCNMPxnc8rThMAwooKm-42" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-39" vertex="1" connectable="0">
           <mxGeometry x="34.860000000000014" y="21" width="70.26599999999999" height="70" as="geometry" />
         </mxCell>
@@ -252,9 +268,11 @@
         <mxCell id="JcCNMPxnc8rThMAwooKm-45" value="Profile Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-39" vertex="1">
           <mxGeometry x="126" y="7" width="154" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="JcCNMPxnc8rThMAwooKm-46" value="LogOut" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-39" vertex="1">
-          <mxGeometry x="153.986" y="105" width="98.014" height="42" as="geometry" />
-        </mxCell>
+        <UserObject label="LogOut" link="data:page/id,y45XoIRhnDGHSl43ioym" id="JcCNMPxnc8rThMAwooKm-46">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="JcCNMPxnc8rThMAwooKm-39" vertex="1">
+            <mxGeometry x="153.986" y="105" width="98.014" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JcCNMPxnc8rThMAwooKm-47" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-600" y="330" width="504" height="100" as="geometry" />
         </mxCell>
@@ -315,6 +333,30 @@
         <mxCell id="JcCNMPxnc8rThMAwooKm-66" value="Server card idea 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="JcCNMPxnc8rThMAwooKm-59" vertex="1">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BLttz0EZwvcSk9eA8QLv" name="ProfilePage">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-YvAB8qKiffz2KN_UGGw" name="AddNewServerPage">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VaYna1fQmEZK1ZIBOYVz" name="ManageServerPage">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
