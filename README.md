@@ -25,6 +25,7 @@ Base management software: https://github.com/itzg/docker-minecraft-bedrock-serve
 
 ## Techstack
 - Java (What version?) (Use Java FX?)
+  + Probably not JavaFX: https://www.reddit.com/r/learnjava/comments/jepbsy/is_javafx_worth_learning_in_2020/
 - Docker/Docker compose
 - GitHub for version control
 - draw.io for GUI design/flowcharts
