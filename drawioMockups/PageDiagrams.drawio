@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T22:17:18.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eno9l2MZzJBrBQ7XyHa9" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-02T19:03:22.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ux_A4EynUQXy4ErxvcEb" version="20.7.4" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="PageRelationships">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -21,7 +21,7 @@
         <mxCell id="sN6Aas26mCw6zReEKOQZ-7" value="Logs out" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.068;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.358;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sN6Aas26mCw6zReEKOQZ-1" target="sN6Aas26mCw6zReEKOQZ-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qUKlEliz1QWMUoyMAakW-1" value="Clicks &quot;Add New Server&quot; button" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sN6Aas26mCw6zReEKOQZ-1" target="qUKlEliz1QWMUoyMAakW-0">
+        <mxCell id="qUKlEliz1QWMUoyMAakW-1" value="Clicks &quot;Add New Server&quot; button" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sN6Aas26mCw6zReEKOQZ-1" target="qUKlEliz1QWMUoyMAakW-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Home Page" link="data:page/id,GJiVA77IO0m3UT4-KP1h" id="sN6Aas26mCw6zReEKOQZ-1">
@@ -35,14 +35,14 @@
         <mxCell id="sN6Aas26mCw6zReEKOQZ-5" value="Server Management Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qUKlEliz1QWMUoyMAakW-0" value="Add New Server Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qUKlEliz1QWMUoyMAakW-0" value="Add New Server Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-20" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="y45XoIRhnDGHSl43ioym" name="StartPage">
-    <mxGraphModel dx="2844" dy="2624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GJiVA77IO0m3UT4-KP1h" name="HomePage">
-    <mxGraphModel dx="2204" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,15 +337,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BLttz0EZwvcSk9eA8QLv" name="ProfilePage">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1plsmytJ7Lzduvl4uSGX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="40" width="510" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1plsmytJ7Lzduvl4uSGX-4" value="&lt;h1&gt;Requirements&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Display following info:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Profile picture&lt;/li&gt;&lt;li&gt;Profile name&lt;/li&gt;&lt;li&gt;email?&lt;/li&gt;&lt;li&gt;Connected accounts&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Microsoft account&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Friends list?&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Edit button, allowing to edit the following:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Profile picture&lt;/li&gt;&lt;li&gt;profile name&lt;/li&gt;&lt;li&gt;email (should it be required to match the email of any connected microsoft account?)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Ability to connect or disconnect microsoft account&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="50" width="490" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-YvAB8qKiffz2KN_UGGw" name="AddNewServerPage">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,7 +359,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VaYna1fQmEZK1ZIBOYVz" name="ManageServerPage">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
